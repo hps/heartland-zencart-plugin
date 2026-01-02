@@ -1,6 +1,9 @@
+# **This repository is no longer maintained.**
+Our current Global Payments Plugin can be found <a href="https://github.com/globalpayments" target="_blank">here</a>
+
 ## SecureSubmit ZenCart Payment Gateway
 
-This extension allows ZenCart to use the Heartland Payment Systems Gateway. All card data is tokenized using Heartland's SecureSubmit product.
+This extension allows ZenCart to use the Global Payments Gateway. All card data is tokenized using Global Payment's SecureSubmit product.
 
 ## Installation
 
