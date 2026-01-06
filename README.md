@@ -1,5 +1,4 @@
 # **This repository is no longer maintained.**
-Our current Global Payments Plugin can be found <a href="https://github.com/globalpayments" target="_blank">here</a>
 
 ## SecureSubmit ZenCart Payment Gateway
 
